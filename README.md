@@ -32,33 +32,41 @@ and then regretting it later 😂
 ![](https://nirzak-streak-stats.vercel.app/?user=Anmol-sys-cloud&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-sys-cloud&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## SKILL TREE 🎯
-    
+## 🎯 SKILL TREE 🎯
+
+</div>
+
 ```mermaid
 mindmap
-    A[Anmol] --> B[Computer Science]
-    A --> C[AI & ML]
-    A --> D[Web Development]
-    A --> E[Electrical]
-    B --> B1[DSA]
-    B --> B2[OOP]
-    B --> B3[DBMS]
-    C --> C1[Machine Learning]
-    C --> C2[NLP Basics]
-    C --> C3[Model Building]
-    D --> D1[Frontend]
-    D --> D2[Backend]
-    D --> D3[Database]
-    D1 --> D11[HTML/CSS/JS]
-    D1 --> D12[React]
-    D2 --> D21[Node.js]
-    D2 --> D22[APIs]
-    D3 --> D31[MongoDB]
-    D3 --> D32[Firebase]
-    E --> E1[Electrical Machines]
-    E --> E2[Measurements]
-
+  root((Anmol))
+    Computer Science
+      Data Structures & Algorithms
+      Object-Oriented Programming
+      Database Management Systems
+    AI & Machine Learning
+      Deep Learning
+      Computer Vision
+      Model Deployment
+      MLOps
+    Web Development
+      Frontend
+        HTML/CSS/JS
+        Svelte
+      Backend
+        Django
+        FastAPI
+        Flask
+      Cloud
+        AWS
+        GCP
+        Azure
+    Electrical Engineering
+      Electrical Machines
+      Measurements
+      System Engineering
 ```
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
