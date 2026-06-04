@@ -20,7 +20,7 @@ or share your experiences from student or professional life — I would love to 
 
 ### 😄 Fun Fact
 ● My guilty pleasure is watching **thriller-based web series** on online platforms…  
-and then regretting it later 😂
+and then regretting it later...😂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-shukla-0294972b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklaanmol811@gmail.com) 
@@ -32,55 +32,17 @@ and then regretting it later 😂
 ![](https://nirzak-streak-stats.vercel.app/?user=Anmol-sys-cloud&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-sys-cloud&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎯 SKILL TREE 🎯
-
-</div>
-
-```mermaid
-mindmap
-  root((Anmol))
-    Computer Science
-      Data Structures & Algorithms
-      Object-Oriented Programming
-      Database Management Systems
-    AI & Machine Learning
-      Deep Learning
-      Computer Vision
-      Model Deployment
-      MLOps
-    Web Development
-      Frontend
-        HTML/CSS/JS
-        Svelte
-      Backend
-        Django
-        FastAPI
-        Flask
-      Cloud
-        AWS
-        GCP
-        Azure
-    Electrical Engineering
-      Electrical Machines
-      Measurements
-      System Engineering
-```
-
----
-
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -91,15 +53,12 @@ mindmap
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ⚡ Electrical Engineering
 ![Electrical Machines](https://img.shields.io/badge/Electrical_Machines-FFB000?style=for-the-badge)
