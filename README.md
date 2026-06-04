@@ -75,5 +75,25 @@ and then regretting it later...😂
 ---
 [![](https://visitcount.itsvg.in/api?id=Anmol-Shukla-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 💬 Open for:
+`Collaborations` • `Open Source` • `Internships` • `Freelance Projects` • `Tech Discussions`
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   "The best way to predict your future is to start building it"   ║
+║                                                                   ║
+║                    - Keep Coding! -                               ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+**⭐ Star my repos if you find them interesting!**  
+**🔔 Follow for more awesome projects! Stay tuned👀**
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
