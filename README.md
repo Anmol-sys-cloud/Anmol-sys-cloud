@@ -69,6 +69,11 @@ and then regretting it later...😂
 ![](https://nirzak-streak-stats.vercel.app/?user=Anmol-sys-cloud&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-sys-cloud&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anmol-sys-cloud)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
